@@ -24,3 +24,15 @@ Lesson Supplement Getting Started with Git and GitHub
 Windows PCs
 
 https://www.youtube.com/watch?v=-sMmrYTtQgE
+
+
+**NG: the following is being added from a followiing lesson**
+
+Starting a Code Base on GitHub
+
+https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-building-interactive-websites/tracks/fscj-22-git-and-github-part-i/modules/wdcp-22-introduction-to-github-beddaab4-bbb4-4be7-ba2d-76e9743caac7/videos/starting-a-code-base-on-github
+
+video
+Starting a code base on GitHub
+
+https://www.youtube.com/watch?v=zFxuHc9AUzg
